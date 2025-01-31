@@ -57,5 +57,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Ruthvik Reddy Anugu(https://github.com/ruthvik-reddy138)
 
----
-Feel free to customize sections and add more details specific to your project. Include any necessary setup instructions, usage examples, and links to external resources. Good luck with your project!
