@@ -41,7 +41,8 @@ The Cornell Movie-Dialogs Corpus can be downloaded [here](https://drive.google.c
 
 ## Example Output
 
-![Example Output](https://digitalcommons.kennesaw.edu/cday/2023fall/Graduate_Research/19/)
+You can view the example output by following this [link](https://digitalcommons.kennesaw.edu/cday/2023fall/Graduate_Research/19/).
+
 
 ## License
 
